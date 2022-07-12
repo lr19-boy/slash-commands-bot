@@ -6,7 +6,7 @@ Hi guys! This is LR19 Boy. I have done a slash command project. Hope you will se
 [Click Here](https://discord.gg/Bpybcqyn2C)
 Join my server and solve your problem here.
 
-#Hosting a Discord Bot from Repl to UptimeRobot
+# Hosting-a-Discord-Bot-from-Repl-to-UptimeRobot
 1) Create an account at https://uptimerobot.com/
 2) Login and go to your dashboard on uptimerobot
 3) Click "Add New Monitor"
